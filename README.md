@@ -1,6 +1,8 @@
 # Design Day 2024 - Rock-em Sock-em
 
-Rock-em-sock-em inspired project for the 2024 Design Day fair at Utah Tech University.
+<!--Rock-em-sock-em inspired group project for the 2024 Design Day fair at Utah Tech University.-->
+
+A group project for the official Utah Tech University Engineering Design Day Fair presented at the Carnival Games portion of the event. A Rock-Em Sock-Em inspired game driven by servos, pound pads, and four microcontrollers using I2C protocols. 
 
 This project was a collaboration between three people. \
 &emsp; Stephen Harris (me) \
@@ -19,7 +21,7 @@ More information on the annual *Utah Tech University Discovery and Design Day* e
 
 ## How to Build
 
-<ins>**Dependancies**</ins> \
+<ins>Dependancies</ins> \
 [Arduino AVR Core](https://github.com/arduino/ArduinoCore-avr) \
 [Adafruit IO Arduino](https://github.com/adafruit/Adafruit_IO_Arduino) \
 [WiFiNINA Arduino](https://github.com/arduino-libraries/WiFiNINA) \
